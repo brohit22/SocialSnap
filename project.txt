@@ -1,0 +1,21 @@
+ ----/ Requirements /----
+FrontEnd - React 
+Backend - Node.js + Express
+Databse - MongoDB
+Api
+CRUD 
+   Create - POST;
+   Read   - GET;
+   Update - PATCH / PUT;
+   Delete - DELETE;
+
+
+ !  deleteMyProfile, deletePost not working 
+
+
+ Databse : - username - rohitbhatade345;
+             passwordForMe - P4FT1SwzXeE4ZDcN
+
+             mongodb+srv://rohitbhatade345:<password>@cluster0.4fozyof.mongodb.net/?retryWrites=true&w=majority
+
+             Cluster0
